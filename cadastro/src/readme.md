@@ -1,4 +1,4 @@
-<h1 align="center">Timer</h1>
+<h1 align="center">Sistemas de Cadastro de Professor SENAI</h1>
 
 <p align="center">
 Programa criado e desenvolvido por Lucas Aguiar.</p>
