@@ -19,5 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
-
-O Sistemas de Cadastro do SENAI foi desenvolvido para aprimorar técnicas e conhecimento 
+Sistemas de Cadastro do SENAI foi desenvolvido para aprimorar técnicas e conhecimento 
