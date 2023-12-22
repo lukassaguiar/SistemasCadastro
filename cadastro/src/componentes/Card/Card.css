@@ -1,0 +1,30 @@
+.card{
+    width: 250px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.33);
+    margin-bottom: 16px;   
+}
+.card-cabecalho{
+    background-color: gainsboro;
+    border-radius: 12px 12px 0 0;
+}
+.card-cabecalho img{
+    width: 125px;
+    border-radius: 100%;
+    position: relative;
+    top: 62px;
+}
+.card-rodape{
+    background-color: whitesmoke;
+    border-radius: 0 0 12px 12px;
+    padding:80px 0 40px ;
+}
+.card-rodape h3{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.card-rodape h5{
+    font-size: 20px;
+    font-weight: 300;
+}

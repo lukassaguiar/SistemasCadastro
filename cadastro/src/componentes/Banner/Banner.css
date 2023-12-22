@@ -1,0 +1,9 @@
+.cabecalho {
+    background-color: #161C37;
+    text-align: center;
+    height: 417px;
+    margin-bottom: 48px;
+}
+.cabecalho img {
+    max-width: 100%;
+}

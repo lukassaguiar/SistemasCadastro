@@ -1,0 +1,20 @@
+.CampoTexto{
+    margin-bottom: 40px;
+    color: #4d4d4d;
+}
+.CampoTexto label{
+    display: block;
+    margin-bottom: 8px;
+}
+.CampoTexto input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    box-shadow:  2px 2px 4px rgba(0 , 0, 0, 0.25);
+
+}
+/* .CampoTexto input::placeholder{
+    font-size: 16px;
+} */

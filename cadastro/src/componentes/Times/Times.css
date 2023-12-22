@@ -1,0 +1,19 @@
+.time {
+    text-align: center;
+    padding: 16px;
+    
+}
+
+.time h3 {
+    border-bottom: 5px solid;
+    display: inline-block; /* ele fica embaixo do caracter, usar sempre o display inline-block */
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; /* quebra linha  */
+}
