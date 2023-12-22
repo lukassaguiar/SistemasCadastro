@@ -6,7 +6,7 @@ Programa criado e desenvolvido por Lucas Aguiar.</p>
 
 <p align="center">
   <img alt= "Sistemas de Cadastro" src=".github/sistema-cadastro" width="50%">
-  <img alt= "Sistemas de Cadastro" src=".github/cont-sistemas" width="50%">
+  <img alt= "Sistemas de Cadastro" src=".github/sistemas-cadastro2" width="50%">
 </p>
 
 ## 🚀 Tecnologias
